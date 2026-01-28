@@ -7,7 +7,7 @@ description: Here is personal website of Hanlin Cai, PhD Student at the Universi
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://yunpengchu.com
+url: yunpeng2004.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -46,10 +46,6 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-  - title: 中文
-    url: /cn/
 
 
 # --------------------------------------------------
