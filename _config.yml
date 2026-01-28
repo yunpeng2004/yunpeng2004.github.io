@@ -7,7 +7,7 @@ description: Here is personal website of Hanlin Cai, PhD Student at the Universi
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://yunpengchu.com
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -20,7 +20,6 @@ owner:
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
   github: yunpeng722
   facebook: Yunpeng Chu
 
