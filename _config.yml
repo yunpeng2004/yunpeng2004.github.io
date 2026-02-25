@@ -55,8 +55,8 @@ links:
     url: /services/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Hobbies
+  #  url: /hobbies/
 
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
