@@ -26,7 +26,6 @@ I'm interested in computational biomathematics, machine learning, and high-perfo
 ## News and Updates
 
 - **Dec 2025**: So excited to join ISC 2026. See you in Hamburg, Germany!
-- **May 2025**: Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!. See you in Canada!
 
 
 ---
