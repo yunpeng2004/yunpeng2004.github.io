@@ -6,13 +6,6 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Journal Manuscripts
-
-Still working hard for that!
-
-  <br>
----
-
 ## Recent Project
 
 - sMBM: single-sample multivariance distribution model for identifying critical transition of complex biological system, **Yunpeng Chu**, Graduate course final project
