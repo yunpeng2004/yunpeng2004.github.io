@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: Projects and Publications
 ---
 
 > (†: equal contribution, ~: corresponding author)
