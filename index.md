@@ -16,7 +16,7 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 
 ## Research Interests
-I'm interested in computational biomathematics, machine learning, and high-performance computing, focusing on interpretable and scalable methods for subgraph perturbation/anomaly detection and graph-structured change-point detection in omics networks.
+I'm interested in computational biomathematics, machine learning, and high-performance computing, Currectly I'm focusing on interpretable and scalable methods for subgraph perturbation/anomaly detection and graph-structured change-point detection in omics networks.
 
 - **Interpretable subgraph perturbation detection**: identifying key subnetworks and driver nodes.  
 - **Scalable HPC implementations**: efficient multi-core/GPU acceleration for large-scale omics data.
