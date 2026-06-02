@@ -15,7 +15,8 @@ title: Services
 
 ## Teaching and Supervision
 
-- [AMS315 Data Analysis](https://www.stonybrook.edu/commcms/ams/academics/undergraduate/_courses/ams315.php) at SBU: Teaching Assistent, 2026 Spring.
+- [AMS315 Data Analysis](https://www.stonybrook.edu/ams/academics/undergraduate/ug-courses/ams-315.html) at SBU: Teaching Assistent, 2026 Spring.
+- [AMS301 Finite Mathematics Structures](https://www.stonybrook.edu/ams/academics/undergraduate/ug-courses/ams-301.html) at SBU: Teaching Assistent, 2026 fall.
 
   <br>
 
