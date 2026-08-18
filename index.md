@@ -23,7 +23,7 @@ I'm interested in computational biomathematics, machine learning, and high-perfo
 
 ## News and Updates
 
-- **Dec 2025**: So excited to join ISC 2026. See you in Hamburg, Germany!
+- **Dec 2025**: So excited to join ISC 2026 Competition. See you in Hamburg, Germany!
 
 
 ---
