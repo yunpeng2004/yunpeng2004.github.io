@@ -28,7 +28,7 @@ description: About Yunpeng Chu and research interests.
       <h2>Research Interests</h2>
     </div>
 
-    <p class="section-intro">My research interests lie in mathematical and computational methods for complex systems, with applications in biology and medical imaging.</p>
+    <p class="section-intro">My research interests lie in mathematical and computational methods for complex systems, with applications in biology and finance. More recently, I have also been exploring CNN architecture design for medical image analysis and reward mechanisms for RLHF.</p>
 
     <div class="interest-grid">
       <article class="interest-card">
