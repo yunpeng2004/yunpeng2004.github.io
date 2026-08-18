@@ -39,7 +39,6 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 /* Compact academic navigation */
 .site-header {
   background: #fff;
-  border-bottom: 1px solid var(--line);
 }
 .nav-shell {
   height: 66px;
@@ -67,18 +66,12 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   font-size: .94rem;
   font-weight: 550;
 }
-.site-nav a::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 13px;
-  height: 1.5px;
-  background: transparent;
-}
 .site-nav a:hover,
-.site-nav a.active { color: var(--heading); text-decoration: none; }
-.site-nav a.active::after { background: var(--heading); }
+.site-nav a.active {
+  color: var(--heading);
+  text-decoration: none;
+}
+.site-nav a.active { font-weight: 650; }
 
 .site-main { min-height: calc(100vh - 130px); }
 .page-shell { padding-top: 36px; padding-bottom: 46px; }
@@ -122,7 +115,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   height: 220px;
   object-fit: cover;
   object-position: center;
-  border: 1px solid var(--line);
+  border-radius: 4px;
   background: var(--soft);
 }
 
@@ -135,11 +128,10 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
 /* Tight section rhythm */
 .content-section {
-  margin-top: 34px;
-  padding-top: 30px;
-  border-top: 1px solid var(--line);
+  margin-top: 30px;
+  padding-top: 0;
 }
-.first-section { margin-top: 0; padding-top: 0; border-top: 0; }
+.first-section { margin-top: 0; padding-top: 0; }
 .home-page .profile-intro + .content-section { margin-top: 34px; }
 .section-heading { margin-bottom: 12px; }
 .section-heading h2 {
@@ -164,44 +156,44 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   align-items: stretch;
 }
 .interest-card {
-  padding: 15px 16px 14px;
-  border: 1px solid var(--line);
-  border-radius: 6px;
-  background: #fff;
+  padding: 11px 13px;
+  border: 0;
+  box-shadow: none;
+  border-radius: 4px;
+  background: var(--soft);
 }
 .interest-card h3 {
-  margin: 0 0 6px;
+  margin: 0 0 5px;
   color: var(--heading);
-  font-size: .99rem;
-  line-height: 1.35;
+  font-size: .86rem;
+  line-height: 1.25;
   font-weight: 650;
+  letter-spacing: -0.012em;
+  white-space: nowrap;
 }
 .interest-card p {
   margin: 0;
   color: var(--muted);
-  font-size: .89rem;
-  line-height: 1.48;
+  font-size: .87rem;
+  line-height: 1.45;
 }
 
 .news-row {
   display: grid;
   grid-template-columns: 92px 1fr;
   gap: 20px;
-  padding: 10px 0;
-  border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
+  padding: 6px 0;
 }
 .news-row time { color: var(--accent); font-size: .86rem; font-weight: 600; }
 .news-row p { margin: 0; color: #424a53; }
 
 /* Other pages */
-.entry-list { border-top: 1px solid var(--line); }
+.entry-list { margin-top: 2px; }
 .entry-item {
   display: grid;
   grid-template-columns: 44px minmax(0, 1fr);
   gap: 18px;
-  padding: 12px 0;
-  border-bottom: 1px solid var(--line);
+  padding: 7px 0;
 }
 .entry-item p { margin: 0; color: #404851; }
 .entry-marker,
@@ -215,7 +207,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .entry-date { color: var(--accent); }
 
 .site-footer {
-  border-top: 1px solid var(--line);
+  margin-top: 4px;
 }
 .footer-shell {
   min-height: 62px;
@@ -245,7 +237,6 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   }
   .site-nav::-webkit-scrollbar { display: none; }
   .site-nav a { padding: 5px 0 9px; font-size: .86rem; }
-  .site-nav a::after { bottom: 3px; }
 
   .page-shell, .home-page { padding-top: 27px; padding-bottom: 38px; }
   .profile-intro {
@@ -259,8 +250,12 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   .page-header h1 { font-size: 1.7rem; }
 
   .content-section,
-  .home-page .profile-intro + .content-section { margin-top: 27px; padding-top: 24px; }
+  .home-page .profile-intro + .content-section { margin-top: 24px; padding-top: 0; }
   .interest-grid { grid-template-columns: 1fr; gap: 9px; }
+  .interest-card h3 {
+    font-size: .92rem;
+    white-space: normal;
+  }
   .news-row,
   .entry-item,
   .dated-entry { grid-template-columns: 1fr; gap: 4px; }
