@@ -24,3 +24,7 @@ No external theme, font CDN, icon library, analytics service, Disqus, or third-p
 ## V3 research-interest update
 
 The homepage research section now reflects three current directions: mathematical biology and complex systems (including single-sample DNB/critical transitions), dynamic-kernel medical image analysis, and scientific computing.
+
+## Personal photo
+
+The homepage reserves a portrait slot on the About Me page. Replace the root-level `personal.jpg` file with your own photo, keeping the same filename. A portrait-oriented crop works best.

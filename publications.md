@@ -7,7 +7,6 @@ description: Projects and publications of Yunpeng Chu.
 
 <div class="shell page-shell">
   <header class="page-header">
-    <p class="eyebrow">WORK</p>
     <h1>Projects and Publications</h1>
     <p class="page-note">(†: equal contribution, ~: corresponding author)</p>
   </header>

@@ -7,7 +7,6 @@ description: Industry, teaching, and voluntary service of Yunpeng Chu.
 
 <div class="shell page-shell">
   <header class="page-header">
-    <p class="eyebrow">EXPERIENCE</p>
     <h1>Services</h1>
   </header>
 

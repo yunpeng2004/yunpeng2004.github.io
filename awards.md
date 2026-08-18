@@ -7,7 +7,6 @@ description: Awards and competitions of Yunpeng Chu.
 
 <div class="shell page-shell">
   <header class="page-header">
-    <p class="eyebrow">RECOGNITION</p>
     <h1>Awards</h1>
   </header>
 
