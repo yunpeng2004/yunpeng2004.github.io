@@ -1,18 +1,45 @@
 ---
-layout: page
-permalink: /awards/index.html
+layout: default
+permalink: /awards/
 title: Awards
+description: Awards and competitions of Yunpeng Chu.
 ---
 
-## Scholarships
+<div class="shell page-shell">
+  <header class="page-header">
+    <p class="eyebrow">RECOGNITION</p>
+    <h1>Awards</h1>
+  </header>
 
-- Feb 2024:  Outstanding Project Grant, CUEB
-- June 2023: Third Prize scholarship, CUEB
+  <section class="content-section first-section">
+    <div class="section-heading"><h2>Scholarships</h2></div>
+    <div class="entry-list">
+      <article class="entry-item dated-entry">
+        <span class="entry-date">Feb 2024</span>
+        <p>Outstanding Project Grant, CUEB</p>
+      </article>
+      <article class="entry-item dated-entry">
+        <span class="entry-date">June 2023</span>
+        <p>Third Prize scholarship, CUEB</p>
+      </article>
+    </div>
+  </section>
 
-## Competitions
-
-- June 2026：Student Cluster Competition (ISC)
-- Nov 2023： Asia-Pacific Mathematical Contest in Modeling (APMCM)
-- Feb 2023:  COMAP'S Mathematical Contest in Modeling (MCM)® / Interdisciplinary Contest in Modeling (ICM)®
-
-<br>
+  <section class="content-section">
+    <div class="section-heading"><h2>Competitions</h2></div>
+    <div class="entry-list">
+      <article class="entry-item dated-entry">
+        <span class="entry-date">June 2026</span>
+        <p>Student Cluster Competition (ISC)</p>
+      </article>
+      <article class="entry-item dated-entry">
+        <span class="entry-date">Nov 2023</span>
+        <p>Asia-Pacific Mathematical Contest in Modeling (APMCM)</p>
+      </article>
+      <article class="entry-item dated-entry">
+        <span class="entry-date">Feb 2023</span>
+        <p>COMAP'S Mathematical Contest in Modeling (MCM)® / Interdisciplinary Contest in Modeling (ICM)®</p>
+      </article>
+    </div>
+  </section>
+</div>

@@ -1,31 +1,61 @@
 ---
-layout: page
+layout: default
+title: About Me
+permalink: /
+description: About Yunpeng Chu and research interests.
 ---
 
-# About Me
+<div class="shell page-shell home-page">
+  <section class="profile-intro">
+    <p class="eyebrow">ABOUT</p>
+    <h1>About Me</h1>
+    <p class="lead-name">Here is <strong>Yunpeng(Nick) Chu</strong></p>
 
-Here is **Yunpeng(Nick) Chu**
+    <div class="prose-block">
+      <p>I am a junior undergraduate student at Stony Brook University majoring in Applied Mathematics and Statistics (AMS) and Mathematics (MAT).</p>
+      <p>Prior to Stony Brook, I conducted research in digital and corporate finance, advised by Professors Ruoxi Zhang and Chao Zhu, at Capital University of Economics and Business.</p>
+      <p>I am always open to academic discussions and potential collaborations. Please feel free to reach me out at <strong>yunpeng.chu [at] stonybrook.edu</strong></p>
+    </div>
+  </section>
 
-I am a junior undergraduate student at Stony Brook University majoring in Applied Mathematics and Statistics (AMS) and Mathematics (MAT). 
+  <section class="content-section research-interest-section">
+    <div class="section-heading">
+      <p class="eyebrow">RESEARCH</p>
+      <h2>Research Interests</h2>
+    </div>
 
-Prior to Stony Brook, I conducted research in digital and corporate finance, advised by Professors Ruoxi Zhang and Chao Zhu, at Capital University of Economics and Business.
+    <p class="section-intro">My research interests lie in mathematical and computational methods for complex systems, with applications in biology and medical imaging.</p>
 
-I am always open to academic discussions and potential collaborations. Please feel free to reach me out at **yunpeng.chu [at] stonybrook.edu**
+    <div class="interest-grid">
+      <article class="interest-card">
+        <span class="card-number">01</span>
+        <h3>Mathematical Biology &amp; Complex Systems</h3>
+        <p>Single-sample critical-transition detection, dynamic network biomarkers, and patient-specific network perturbation analysis.</p>
+      </article>
 
----
+      <article class="interest-card">
+        <span class="card-number">02</span>
+        <h3>Machine Learning for Medical Imaging</h3>
+        <p>Efficient medical image segmentation with dynamic kernel design and structure-aware learning.</p>
+      </article>
 
+      <article class="interest-card">
+        <span class="card-number">03</span>
+        <h3>Scientific Computing</h3>
+        <p>Numerical optimization, parallel algorithms, and scalable computation for large-scale scientific problems.</p>
+      </article>
+    </div>
+  </section>
 
-## Research Interests
-I'm interested in computational biomathematics, machine learning, and high-performance computing, Currently I'm focused on developing interpretable and scalable methods for graph-based biological networks, especially for subgraph perturbation, anomaly detection, and structural change detection.
+  <section class="content-section news-section">
+    <div class="section-heading">
+      <p class="eyebrow">UPDATES</p>
+      <h2>News and Updates</h2>
+    </div>
 
-- **Interpretable Subgraph Perturbation Detection**: identifying key subnetworks and driver nodes in biological networks.  
-- **Scalable High-Performance Computing**: efficient multi-core/GPU acceleration for large-scale biological and graph-structured data.
-
-## News and Updates
-
-- **Dec 2025**: So excited to join ISC 2026 Competition. See you in Hamburg, Germany!
-
-
----
-
-<br>
+    <div class="news-row">
+      <time>Dec 2025</time>
+      <p>So excited to join ISC 2026 Competition. See you in Hamburg, Germany!</p>
+    </div>
+  </section>
+</div>
