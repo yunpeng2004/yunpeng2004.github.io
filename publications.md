@@ -34,7 +34,7 @@ description: Projects and publications of Yunpeng Chu.
       </article>
       <article class="entry-item">
         <span class="entry-marker">02</span>
-        <p>The impact of corporate green transformation on corporate tax avoidance, Zilin Wu†, <strong>Yunpeng Chu</strong>†, Haoyang Du (advisor: Chao Zhu), Outstanding Innovation and Entrepreneurship Project 2024, Beijing</p>
+        <p>The impact of corporate green transformation on corporate tax avoidance, Zilin Wu†, <strong>Yunpeng Chu</strong>†, Haoyang Du (advisor: Dr.Chao Zhu), Outstanding Innovation and Entrepreneurship Project 2024, Beijing</p>
       </article>
     </div>
   </section>
